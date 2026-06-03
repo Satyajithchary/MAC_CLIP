@@ -284,7 +284,7 @@ mac_clip_repo/
 
 ```bash
 # 1. Clone
-git clone https://github.com/<your-username>/mac-clip.git
+git clone https://github.com/Satyajithchary/mac-clip.git
 cd mac-clip
 
 # 2. Create environment (Python 3.9+)
