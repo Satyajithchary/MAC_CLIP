@@ -248,7 +248,7 @@ Training objectives: Tversky + IoU + Dice + Focal + Boundary +
 
 ## Qualitative Results
 
-> *Qualitative Segmentation Panels across 5 Modalities here*
+> *Qualitative Segmentation Panels across 4 Modalities here*
 <img src="Paper/MAC_CLIP_Result.jpg" alt="Qualitative Segmentation Diagram" width="1000">
 
 ---
