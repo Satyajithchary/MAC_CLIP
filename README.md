@@ -1,6 +1,6 @@
 # MAC-CLIP: Morpho-Semantic Adaptive Contrastive Learning for Reliable Multi-Modality Medical Segmentation
 
-> **BMVC 2026 — Submission #1242** (under double-blind review)
+> **BMVC 2026 - Submission #1242** (under double-blind review)
 
 ---
 
